@@ -1,5 +1,5 @@
 - 👋 Hi, I’m João Pedro
-- 🌱 I’m currently learning Java and Frameworks
+- 🌱 I’m currently learning Javascript and Frameworks
 
 <!---
 Pedromontesi/Pedromontesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
